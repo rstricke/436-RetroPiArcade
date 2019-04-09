@@ -26,8 +26,7 @@ In order to proceed with this tutorial you will need:
 		```
 		The first step that we will need to take, is to insert the SD card into the RaspberryPi.
 		```
-		+
-		
++		
 image::raspbpiSD.png[]
 
 . Step two.
@@ -37,34 +36,35 @@ image::raspbpiSD.png[]
 		For this build, I have gone with an open case where I only have to connect the bottom half of the RaspberryPi to it.
 		After the RaspberryPi has been installed to it's case, proceed to install the HeatSink/Fan to the RaspberryPi.
 		```
-		+
-		
++		
 image::heatsinkfan.png[]
 
 
-. Step three. Use "+" and the  backtick character to add additional command.
+. Step three. 
 +
 ```
-sudo su
+Place the RaspberryPi inside of the entire case and glue it in place. 
 ```
-. Step four. Use the following syntax to include screenshots or other images. Note that the "+" is used to include additional content under this bullet point.
+
+. Step four. 
 +
-image::blue-rectangle.png[]
-. Step five. Compile with the following command:
-+
-```
-asciidoctor-pdf tutorial.adoc
-```
-
-== Challenge
-
-Provide some meaningful ways for the learner to apply their knowledge in a new way.
-
-Notice that a screenshot can be included in a separate paragraph without the "+".
-
+Place the Screen in the top half of the closeable plastic case, glue it in place.
 image::blue-rectangle.png[]
 
-== Reflection
+. Step five. 
++
+```
+Connect the HDMI from the screen to the RaspberryPi
+```
+. Step six. 
++
+```
+Connect the speaker to the raspberrypi. Glue it in place. 
+```
+. Step seven. 
++
+```
+Connect the raspberrypi to the battery pack in order to give it power. Turn the power pack on, the raspberrypi on and play the retro console with an external controller! 
+```
 
-Provide some thought questions that help the learner make sense of how the tutorial fits in the bigger picture.
 
