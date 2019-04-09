@@ -9,12 +9,12 @@ This tutorial will guide you through the process of creating your own Portable R
 == Prerequisites
 
 In order to proceed with this tutorial you will need: 
-*a RaspberryPi (I've used a Pi-B+ with this build.) 
-*a 5 to 7 inch LCD screen
-*a case for the RaspberryPi and the screen to be mounted into.
-*a battery pack (5600mah)
-*6inch HDMI cord
-*HDMI adapter
+**a RaspberryPi (I've used a Pi-B+ with this build.) 
+**a 5 to 7 inch LCD screen
+**a case for the RaspberryPi and the screen to be mounted into.
+**a battery pack (5600mah)
+**6inch HDMI cord
+**HDMI adapter
 
 
 == Instructions
