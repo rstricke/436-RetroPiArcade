@@ -27,7 +27,6 @@ In order to proceed with this tutorial you will need:
 			The first step that we will need to take, is to insert the SD card into the RaspberryPi.
 		+
 image::raspbpiSD.png[]
-		+
 
 . Step two.
 		+
@@ -36,7 +35,7 @@ image::raspbpiSD.png[]
 			After the RaspberryPi has been installed to it's case, proceed to install the HeatSink/Fan to the RaspberryPi.
 		+
 image::heatsinkfan.png
-+
+
 
 . Step three. Use "+" and the  backtick character to add additional command.
 +
