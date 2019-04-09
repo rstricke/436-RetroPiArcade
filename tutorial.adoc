@@ -4,14 +4,18 @@ Author: Ryan Stricker
 
 == Intro
 
-Describe the goals and purpose of the tutorial here. You can change "Intro" to something meaningful about your tutorial, such as "About Wireshark Filters."
+This tutorial will guide you through the process of creating your own Portable RetroPi Console.
 
 == Prerequisites
 
-The "*" is a bulleted list. If this can only be done on a Windows computer, using Packet Tracer, or any other technology, list those prerequisites here.
+In order to proceed with this tutorial you will need: 
+*a RaspberryPi (I've used a Pi-B+ with this build.) 
+*a 5 to 7 inch LCD screen
+*a case for the RaspberryPi and the screen to be mounted into.
+*a battery pack (5600mah)
+*6inch HDMI cord
+*HDMI adapter
 
-* VirtualBox
-* Kali Virtual Machine
 
 == Instructions
 
