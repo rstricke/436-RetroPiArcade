@@ -22,10 +22,10 @@ In order to proceed with this tutorial you will need:
 
 . Step one.
 		+
-		`
+		```
 			The first step that we will need to take, is to insert the SD card into the RaspberryPi.
-		`
-		+
+		```
++
 image::raspbpiSD.png[]
 +
 . Step two.
