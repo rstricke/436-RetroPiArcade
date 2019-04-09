@@ -12,9 +12,10 @@ In order to proceed with this tutorial you will need:
 
 * a RaspberryPi (I've used a Pi-B+ with this build.) 
 * a 5 to 7 inch LCD screen
-* a case for the RaspberryPi and the screen to be mounted into.
+* a case for the RaspberryPi & a case for the entire build to be mounted into. (includes screen, speaker, battery pack, room for cords, etc.)
 * a battery pack (5600mah)
 * 6inch HDMI cord
+* a heatsink & fan for the RaspberryPi
 * HDMI adapter
 * An SD card with the RetroPi OS to be able to run games
 
@@ -25,10 +26,20 @@ In order to proceed with this tutorial you will need:
 		```
 			The first step that we will need to take, is to insert the SD card into the RaspberryPi.
 		```
-+
+		+
 image::raspbpiSD.png[]
-+
+		+
+
 . Step two.
+		+
+		```
+			The second step is to install the RaspberryPi to its case. For this build, I have gone with an open case where I only have to connect the bottom half of the RaspberryPi to it.
+			After the RaspberryPi has been installed to it's case, proceed to install the HeatSink/Fan to the RaspberryPi.
+		```	
+		+
+image::heatsinkfan.png
++
+
 . Step three. Use "+" and the  backtick character to add additional command.
 +
 ```
