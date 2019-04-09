@@ -25,7 +25,9 @@ In order to proceed with this tutorial you will need:
 		`
 			The first step that we will need to take, is to insert the SD card into the RaspberryPi.
 		`
+		+
 image::raspbpiSD.png[]
++
 . Step two.
 . Step three. Use "+" and the  backtick character to add additional command.
 +
