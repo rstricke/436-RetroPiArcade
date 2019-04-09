@@ -16,12 +16,16 @@ In order to proceed with this tutorial you will need:
 * a battery pack (5600mah)
 * 6inch HDMI cord
 * HDMI adapter
+* An SD card with the RetroPi OS to be able to run games
 
 == Instructions
 
-Guide the person through the steps. Starting a line with a period is an automatically numbered list.
-
 . Step one.
+		+
+		```
+			The first step that we will need to take, is to insert the SD card into the RaspberryPi.
+			image::raspbpiSD.jpg[]
+		```
 . Step two.
 . Step three. Use "+" and the  backtick character to add additional command.
 +
