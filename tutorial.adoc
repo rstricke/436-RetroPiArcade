@@ -22,49 +22,41 @@ In order to proceed with this tutorial you will need:
 == Instructions
 
 . Step one.
-		+
-		```
-		The first step that we will need to take, is to insert the SD card into the RaspberryPi.
-		```
+		
+		* The first step that we will need to take, is to insert the SD card into the RaspberryPi.
+
 +		
 image::raspbpiSD.png[]
 
 . Step two.
-		+
-		```
-		The second step is to install the RaspberryPi to its case. 
+		
+		* The second step is to install the RaspberryPi to its case. 
 		For this build, I have gone with an open case where I only have to connect the bottom half of the RaspberryPi to it.
 		After the RaspberryPi has been installed to it's case, proceed to install the HeatSink/Fan to the RaspberryPi.
-		```
+
 +		
 image::heatsinkfan.png[]
 
 
 . Step three. 
-+
-```
-Place the RaspberryPi inside of the entire case and glue it in place. 
-```
+
+	 * Place the RaspberryPi inside of the entire case and glue it in place. 
+
 
 . Step four. 
-+
-Place the Screen in the top half of the closeable plastic case, glue it in place.
-image::blue-rectangle.png[]
+
+ 	* Place the Screen in the top half of the closeable plastic case, glue it in place.
+
 
 . Step five. 
-+
-```
-Connect the HDMI from the screen to the RaspberryPi
-```
+
+	* Connect the HDMI from the screen to the RaspberryPi
 . Step six. 
-+
-```
-Connect the speaker to the raspberrypi. Glue it in place. 
-```
+
+	* Connect the speaker to the raspberrypi. Glue it in place. 
+
 . Step seven. 
-+
-```
-Connect the raspberrypi to the battery pack in order to give it power. Turn the power pack on, the raspberrypi on and play the retro console with an external controller! 
-```
+
+	* Connect the raspberrypi to the battery pack in order to give it power. Turn the power pack on, the raspberrypi on and play the 	retro console with an external controller! 
 
 
