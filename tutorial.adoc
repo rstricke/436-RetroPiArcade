@@ -12,8 +12,12 @@ In order to proceed with this tutorial you will need:
 
 * a RaspberryPi (I've used a Pi-B+ with this build.) 
 * a 5 to 7 inch LCD screen
+image::case.png[]
+(image is placeholder)
 * a case for the RaspberryPi & a case for the entire build to be mounted into. (includes screen, speaker, battery pack, room for cords, etc.)
 * a battery pack (5600mah)
+image::batterypack.png[]
+(image is placeholder)
 * 6inch HDMI cord
 * a heatsink & fan for the RaspberryPi
 * HDMI adapter
@@ -28,6 +32,7 @@ The first step that we will need to take, is to insert the SD card into the Rasp
 ```
 +		
 image::raspbpiSD.png[]
+(image is placeholder)
 
 . Step two.
 +
@@ -35,11 +40,12 @@ image::raspbpiSD.png[]
 The second step is to install the RaspberryPi to its case. 
 For this build, I have gone with an open case,
 where I only have to connect the bottom half of the RaspberryPi to it.
-After the RaspberryPi has been installed to it's case, proceed to install the HeatSink/Fan to the RaspberryPi.
+After the RaspberryPi has been installed to it's case,
+proceed to install the HeatSink/Fan to the RaspberryPi.
 ```
 +		
 image::heatsinkfan.png[]
-image is placeholder
+(image is placeholder)
 
 
 . Step three. 
@@ -50,8 +56,9 @@ Place the RaspberryPi inside of the entire case and glue it in place.
 
 . Step four. 
 +
+```
 Place the Screen in the top half of the closeable plastic case, glue it in place.
-
+```
 . Step five. 
 +
 ```
@@ -65,7 +72,8 @@ Connect the speaker to the raspberrypi. Glue it in place.
 . Step seven. 
 +
 ```
-Connect the raspberrypi to the battery pack in order to give it power. Turn the power pack on, the raspberrypi on and play the retro console with an external controller! 
+Connect the raspberrypi to the battery pack in order to give it power.
+Turn the power pack on, the raspberrypi on and play the retro console with an external controller! 
 ```
 
 
