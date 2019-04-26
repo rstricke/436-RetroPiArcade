@@ -12,10 +12,12 @@ In order to proceed with this tutorial you will need:
 
 * a RaspberryPi (I've used a Pi-B+ with this build.) 
 * a 5 to 7 inch LCD screen
++
 image::case.png[]
 (image is placeholder)
 * a case for the RaspberryPi & a case for the entire build to be mounted into. (includes screen, speaker, battery pack, room for cords, etc.)
 * a battery pack (5600mah)
++
 image::batterypack.png[]
 (image is placeholder)
 * 6inch HDMI cord
