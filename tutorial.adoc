@@ -29,7 +29,7 @@ In order to proceed with this tutorial you will need:
 +		
 image::raspbpiSD.png[]
 
-. Step two.
+. Step two.<br/>
 		+
 		```
 		The second step is to install the RaspberryPi to its case. 
