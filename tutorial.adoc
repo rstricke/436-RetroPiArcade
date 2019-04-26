@@ -33,11 +33,14 @@ image::raspbpiSD.png[]
 		+
 		```
 		The second step is to install the RaspberryPi to its case. 
+		```
 		For this build, I have gone with an open case where I only have to connect the bottom half of the RaspberryPi to it.
+		```
 		After the RaspberryPi has been installed to it's case, proceed to install the HeatSink/Fan to the RaspberryPi.
 		```
 +		
 image::heatsinkfan.png[]
+image is placeholder
 
 
 . Step three. 
@@ -49,7 +52,6 @@ Place the RaspberryPi inside of the entire case and glue it in place.
 . Step four. 
 +
 Place the Screen in the top half of the closeable plastic case, glue it in place.
-image::blue-rectangle.png[]
 
 . Step five. 
 +
