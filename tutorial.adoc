@@ -33,11 +33,8 @@ image::raspbpiSD.png[]
 +
 ```
 The second step is to install the RaspberryPi to its case. 
-```
-```
-For this build, I have gone with an open case where I only have to connect the bottom half of the RaspberryPi to it.
-```
-```
+For this build, I have gone with an open case,
+where I only have to connect the bottom half of the RaspberryPi to it.
 After the RaspberryPi has been installed to it's case, proceed to install the HeatSink/Fan to the RaspberryPi.
 ```
 +		
