@@ -18,7 +18,7 @@ image::case.png[]
 * a case for the RaspberryPi & a case for the entire build to be mounted into. (includes screen, speaker, battery pack, room for cords, etc.)
 * a battery pack (5600mah)
 +
-image::batterypack.png[]
+image::powerpack.png[]
 (image is placeholder)
 * 6inch HDMI cord
 * a heatsink & fan for the RaspberryPi
