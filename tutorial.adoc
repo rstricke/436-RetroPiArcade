@@ -10,19 +10,28 @@ This tutorial will guide you through the process of creating your own Portable R
 
 In order to proceed with this tutorial you will need: 
 
-* a RaspberryPi (I've used a Pi-B+ with this build.) 
+* a RaspberryPi (I've used a Pi-B+ with this build.)
++
+image::raspi.jpg[] 
+(image is placeholder)
 * a 5 to 7 inch LCD screen
++
+image::display.png[]
+(image is placeholder)
+* a case for the RaspberryPi & a case for the entire build to be mounted into. (includes screen, speaker, battery pack, room for cords, etc.)
 +
 image::case.png[]
 (image is placeholder)
-* a case for the RaspberryPi & a case for the entire build to be mounted into. (includes screen, speaker, battery pack, room for cords, etc.)
 * a battery pack (5600mah)
 +
 image::powerpack.png[]
 (image is placeholder)
 * 6inch HDMI cord
++
+image::hdmi.jpg[]
 * a heatsink & fan for the RaspberryPi
-* HDMI adapter
++
+image::heatsink.png[]
 * An SD card with the RetroPi OS to be able to run games
 
 == Instructions
@@ -53,29 +62,68 @@ image::heatsinkfan.png[]
 . Step three. 
 +
 ```
-Place the RaspberryPi inside of the entire case and glue it in place. 
+Place the RaspberryPi inside of the entire case,
+Make sure the location you want to put it in will leave room for the other parts.
+Use marker to map out the locations of USB ports to cutout
+Remove the RaspberryPi and cut out the locations of ports. 
+Place the Pi back inside to make sure everything fits. 
 ```
 
 . Step four. 
 +
 ```
-Place the Screen in the top half of the closeable plastic case, glue it in place.
+Place the Screen in the top half of the closeable plastic case.
+You tape it in place or glue it in place with heatproof tape or glue. 
+Connect the HDMI from the screen to the RaspberryPi
+
 ```
 . Step five. 
 +
 ```
-Connect the HDMI from the screen to the RaspberryPi
+Place the battery pack inside of the case,
+User marker to mark the locations where you will want the power button & charging port
+Remove the battery pack to cut out the locations
 ```
 . Step six. 
 +
 ```
-Connect the speaker to the raspberrypi. Glue it in place. 
+Open the battery pack up to reveal where the batteries connect to the USB
++
+image::powerpack2.png[]
+Separate out a red and black wire,
+connect the wires to the usb.
++
+image::wires.png[]
+a male micro usb head, as well as a power switch
++
+image::usbhead.png[]
+connect the red wire to the powerswitch and the black wire to the male usb head
++
+image::powerbutton1.png[]
++
+image::powerbutton2.png[]
+connect the powerswitch to the usb head.
+test that it works with turning the battery pack on,
+and turning on the raspberrypi
+turn it off and place the battery pack in the case
+place the switch in to its open port and glue it in place
 ```
 . Step seven. 
 +
 ```
-Connect the raspberrypi to the battery pack in order to give it power.
-Turn the power pack on, the raspberrypi on and play the retro console with an external controller! 
+Once done, glue the powerpack and the raspberry pi in place.
+Add the speaker to the inside of the case and glue it in place
+Plug the speaker into the RaspberryPi
++
+image::withoutbezel.png[]
+Turn the power pack on,
+the screen, raspberrypi and the speaker should all activate.
+Cover the inside of the case to keep its contents secure.
++
+image::finishedcase.png[]
+Plug in your controller and begin playing your Retro Console!
 ```
+
+* all placeholder images were taken from this video: https://www.youtube.com/watch?v=pFho9bYt6Us&t=205s
 
 
