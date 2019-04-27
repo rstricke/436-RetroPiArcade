@@ -1,4 +1,4 @@
-= Tutorial Title Name
+= How to Build Your Own RaspberryPi RetroConsole!
 
 Author: Ryan Stricker
 
