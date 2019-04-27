@@ -88,21 +88,29 @@ Remove the battery pack to cut out the locations
 +
 ```
 Open the battery pack up to reveal where the batteries connect to the USB
+```
 +
 image::powerpack2.png[]
+```
 Separate out a red and black wire,
 connect the wires to the usb by using the soldering iron
+```
 +
 image::wires.png[]
+```
 Get out a male micro usb head, as well as a power switch
+```
 +
 image::usbhead.png[]
+```
 connect the red wire to the powerswitch
 and the black wire to the male usb head with the soldering iron
+```
 +
 image::powerbutton1.png[]
 +
 image::powerbutton2.png[]
+```
 connect the powerswitch to the usb head.
 test that it works with turning the battery pack on,
 and turning on the raspberrypi
@@ -115,13 +123,17 @@ place the switch in to its open port and glue it in place
 Once done, glue the powerpack and the raspberry pi in place.
 Add the speaker to the inside of the case and glue it in place
 Plug the speaker into the RaspberryPi
+```
 +
 image::withoutbezel.png[]
+```
 Turn the power pack on,
 the screen, raspberrypi and the speaker should all activate.
 Cover the inside of the case to keep its contents secure.
+```
 +
 image::finishedcase.png[]
+```
 Plug in your controller and begin playing your Retro Console!
 ```
 
