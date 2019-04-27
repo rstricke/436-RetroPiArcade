@@ -89,8 +89,10 @@ Remove the battery pack to cut out the locations
 ```
 Open the battery pack up to reveal where the batteries connect to the USB
 ```
+
 +
 image::powerpack2.png[]
+
 ```
 Separate out a red and black wire,
 connect the wires to the usb by using the soldering iron
@@ -100,6 +102,7 @@ image::wires.png[]
 +
 ```
 Get out a male micro usb head, as well as a power switch
+```
 
 +
 image::usbhead.png[]
@@ -107,10 +110,10 @@ image::usbhead.png[]
 ```
 connect the red wire to the powerswitch
 and the black wire to the male usb head with the soldering iron
+```
 
 +
 image::powerbutton1.png[]
-
 +
 image::powerbutton2.png[]
 
