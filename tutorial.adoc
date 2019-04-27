@@ -113,14 +113,14 @@ and the black wire to the male usb head with the soldering iron
 ```
 
 +
-image::powerbutton1.png[]
+image::powerbutton.png[]
 
 
 ```
 connect the powerswitch to the usb head.
 ```
 +
-image::powerbutton2.png[]
+image::powerbutton1.png[]
 ```
 test that it works with turning the battery pack on,
 and turning on the raspberrypi
