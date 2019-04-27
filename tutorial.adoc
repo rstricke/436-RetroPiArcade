@@ -95,24 +95,24 @@ image::powerpack2.png[]
 Separate out a red and black wire,
 connect the wires to the usb by using the soldering iron
 ```
-+
+
 image::wires.png[]
 ```
 Get out a male micro usb head, as well as a power switch
 ```
-+
+
 image::usbhead.png[]
 ```
 connect the red wire to the powerswitch
 and the black wire to the male usb head with the soldering iron
 ```
-+
+
 image::powerbutton.png[]
 
 ```
 connect the powerswitch to the usb head.
 ```
-+
+
 image::powerbutton1.png[]
 ```
 test that it works with turning the battery pack on,
