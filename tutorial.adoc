@@ -99,7 +99,7 @@ connect the wires to the usb by using the soldering iron
 ```
 +
 image::wires.png[]
-+
+
 ```
 Get out a male micro usb head, as well as a power switch
 ```
@@ -114,11 +114,14 @@ and the black wire to the male usb head with the soldering iron
 
 +
 image::powerbutton1.png[]
-+
-image::powerbutton2.png[]
+
 
 ```
 connect the powerswitch to the usb head.
+```
++
+image::powerbutton2.png[]
+```
 test that it works with turning the battery pack on,
 and turning on the raspberrypi
 turn it off and place the battery pack in the case
