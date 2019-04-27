@@ -100,21 +100,20 @@ image::wires.png[]
 +
 ```
 Get out a male micro usb head, as well as a power switch
-```
+
 +
 image::usbhead.png[]
-+
+
 ```
 connect the red wire to the powerswitch
 and the black wire to the male usb head with the soldering iron
-```
+
 +
 image::powerbutton1.png[]
-+
 
 +
 image::powerbutton2.png[]
-+
+
 ```
 connect the powerswitch to the usb head.
 test that it works with turning the battery pack on,
